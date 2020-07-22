@@ -1,0 +1,14 @@
+/* .nes-container {
+  width: 50%;
+  height: 50%;
+}
+ */
+img {
+  height: 200px;
+  height: 200px;
+}
+
+.bg-img {
+  background-image: url(agumon.jpg);
+  background-size: cover;
+}
